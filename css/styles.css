@@ -1,0 +1,10 @@
+			body{
+				background-color: floralwhite
+			}
+
+			hr{ /*  horizontal line  */
+				border-style:  dotted
+				border-color: pink;
+				height: 3px
+				width: 30%
+			}
